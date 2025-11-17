@@ -1,0 +1,6 @@
+[submodule "hamer"]
+	path = hamer
+	url = https://github.com/geopavlakos/hamer
+[submodule "mcc-ho"]
+	path = mcc-ho
+	url = https://github.com/janehwu/mcc-ho
